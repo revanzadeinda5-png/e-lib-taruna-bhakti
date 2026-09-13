@@ -25,7 +25,7 @@ graph TD
         UC8[Cetak Laporan Sirkulasi]
     end
 
-    Siswa --> UC1
+    Siswa --> UC11
     Siswa --> UC2
     Siswa --> UC7
 
